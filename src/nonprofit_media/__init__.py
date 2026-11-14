@@ -1,0 +1,1 @@
+"""Nonprofit campaign image variants."""
